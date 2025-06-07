@@ -1,3 +1,4 @@
 (sym_lib_table
   (version 7)
+  (lib (name "j_LED")(type "KiCad")(uri "${KIPRJMOD}/../../../lib/jeffmakes-kicad-library/jeffmakes-symbols/j_LED.kicad_sym")(options "")(descr ""))
 )
