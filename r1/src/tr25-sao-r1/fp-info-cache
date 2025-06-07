@@ -1,4 +1,4 @@
-25604033632060310
+25729978759010221
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -102640,3 +102640,507 @@ Varistor VF
 0
 2
 2
+jeffmakes-footprints
+1125R-SMT-4P
+
+
+0
+6
+5
+jeffmakes-footprints
+AFC07x24-1MP_P0.5mm_Horizontal
+FPC connector, 24 top-side contacts, 0.5mm pitch, SMT
+
+0
+26
+25
+jeffmakes-footprints
+AFC07x40-1MP_P0.5mm_Horizontal
+FPC connector, 24 top-side contacts, 0.5mm pitch, SMT
+
+0
+42
+41
+jeffmakes-footprints
+AFC07x40-1MP_P0.5mm_Horizontal_reverse_pinout
+FPC connector, 24 top-side contacts, 0.5mm pitch, SMT
+
+0
+42
+41
+jeffmakes-footprints
+Antenna_TI_DN038
+
+
+0
+56
+1
+jeffmakes-footprints
+BF100-08-A-C-1-0625-L-C
+surface-mounted straight socket, 2x04, 2.00mm pitch, dual entry with alignment pegs
+Surface mounted socket strip SMD 2x04 2.00mm double row peg
+0
+8
+8
+jeffmakes-footprints
+Batt_375080_1500mAh
+
+
+0
+0
+0
+jeffmakes-footprints
+CHIPLED-0805
+
+
+0
+2
+2
+jeffmakes-footprints
+Cellular_Modem-Sierra-Wireless-module-CF3-ringCD
+
+
+0
+238
+238
+jeffmakes-footprints
+D-1206
+http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C230KFKT_5-24-06.pdf
+
+0
+2
+2
+jeffmakes-footprints
+ESP32-WROVER
+
+
+0
+39
+39
+jeffmakes-footprints
+FS1511P01
+
+
+0
+0
+0
+jeffmakes-footprints
+GDEH029A1
+
+
+0
+0
+0
+jeffmakes-footprints
+Hirose_FH12-20S-0.5SVA_1x20-1MP_P0.50mm_Vertical
+Hirose FH12, FFC/FPC connector, FH12-20S-0.5SH, 20 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+24
+21
+jeffmakes-footprints
+IDC-Header_2x05_P2.54mm_Vertical_SMD
+Through hole straight IDC box header, 2x05, 2.54mm pitch, double rows
+Through hole IDC box header THT 2x05 2.54mm double row
+0
+10
+10
+jeffmakes-footprints
+Jack_3.5mm_PJ320D_Horizontal_strengthening-vias
+Headphones with microphone connector, 3.5mm, 4 pins (http://www.qingpu-electronics.com/en/products/WQP-PJ320D-72.html)
+3.5mm jack mic microphone phones headphones 4pins audio plug
+0
+18
+4
+jeffmakes-footprints
+Keystone-3000-CR1220-CR1216
+
+
+0
+3
+2
+jeffmakes-footprints
+LED_BL-FL7680RGB-large-holes
+'Piranha' RGB LED, through hole, common anode, 7.62x7.62mm, BGRA pin order, https://cdn-shop.adafruit.com/datasheets/BL-FL7680RGB.pdf
+RGB LED Piranha Super-Flux BetLux
+0
+4
+4
+jeffmakes-footprints
+LED_PLCC4_3.2x2.8mm_CCW
+3.2mm x 2.8mm PLCC4 RGB LED, https://assets.cree-led.com/a/ds/h/HB-CLV1A-FKB.pdf
+LED Cree PLCC-4 3528 CLV1A-FKB
+0
+4
+4
+jeffmakes-footprints
+LED_RGB_PLCC4_reverse_mount
+3.2mm x 2.8mm PLCC4 LED, https://www.we-online.de/katalog/datasheet/150141M173100.pdf
+LED RGB Wurth PLCC-4
+0
+4
+4
+jeffmakes-footprints
+LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm_no_silk
+https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+LED RGB NeoPixel Mini
+0
+4
+4
+jeffmakes-footprints
+LED_SK6812SIDE-A
+
+
+0
+4
+4
+jeffmakes-footprints
+LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm_no-silk
+https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+LED RGB NeoPixel
+0
+4
+4
+jeffmakes-footprints
+LP335080
+
+
+0
+0
+0
+jeffmakes-footprints
+Molex_CLIK-Mate_502443-0870_1x08-2MP_P2.00mm_Vertical
+Molex CLIK-Mate series connector, 502443-0870 (http://www.molex.com/pdm_docs/sd/5024430270_sd.pdf), generated with kicad-footprint-generator
+connector Molex CLIK-Mate side entry
+0
+10
+10
+jeffmakes-footprints
+MountingHole_2.0mm
+
+
+0
+0
+0
+jeffmakes-footprints
+MountingHole_3.2mm_M3_DIN965_no_soldermask
+Mounting Hole 3.2mm, no annular, M3, DIN965
+mounting hole 3.2mm no annular m3 din965
+0
+0
+0
+jeffmakes-footprints
+Mounting_Wuerth_WA-SMSI-M3_H7mm_9774070360
+Mounting Hardware, inside through hole M3, height 7, Wuerth electronics 9774070360 (https://katalog.we-online.de/em/datasheet/9774070360.pdf), generated with kicad-footprint-generator
+Mounting M3 9774070360
+0
+8
+1
+jeffmakes-footprints
+NetTie-2_SMD_Pad2.0mm-inner1
+Net tie, 2 pin, 2.0mm square SMD pads
+net tie
+0
+2
+2
+jeffmakes-footprints
+Nintendo-Wii-Connector
+
+
+0
+10
+7
+jeffmakes-footprints
+PTS-810
+
+
+0
+4
+4
+jeffmakes-footprints
+PinHeader_2x04_P2.00mm_Vertical_SMD_AMPMODU
+surface-mounted straight pin header, 2x04, 2.00mm pitch, double rows
+Surface mounted pin header SMD 2x04 2.00mm double row
+0
+8
+8
+jeffmakes-footprints
+PinSocket_2x02_P2.54mm_Vertical_mirror_numbering
+Through hole straight socket strip, 2x02, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x02 2.54mm double row
+0
+4
+4
+jeffmakes-footprints
+PinSocket_2x03_P2.54mm_Through-Board-Mating
+
+
+0
+6
+6
+jeffmakes-footprints
+PinSocket_2x04_P2.00mm_Vertical_SMD_Bottom_or_Top_Entry_AMPMODU
+surface-mounted straight socket strip, 2x04, 2.00mm pitch, double cols (from Kicad 4.0.7), script generated
+Surface mounted socket strip SMD 2x04 2.00mm double row
+0
+8
+8
+jeffmakes-footprints
+Raspberry-Pi-4-Compute-Module-no-holes
+Raspberry Pi 4 Compute Module
+Raspberry Pi 4 Compute Module
+0
+200
+200
+jeffmakes-footprints
+SOD-523-numbered-pads
+
+
+0
+2
+2
+jeffmakes-footprints
+SW_JS1400BFQ
+
+
+0
+8
+8
+jeffmakes-footprints
+SW_JS1400BFQ-arrows
+
+
+0
+8
+8
+jeffmakes-footprints
+SW_JS102011SAQN
+
+
+0
+3
+3
+jeffmakes-footprints
+SW_SPST_TACT-6x6-no-silk
+C&K Components SPST SMD PTS645 Series 6mm Tact Switch
+SPST Button Switch
+0
+4
+4
+jeffmakes-footprints
+SW_SPST_TACT_6x6_REV_MOUNT
+C&K Components SPST SMD PTS645 Series 6mm Tact Switch
+SPST Button Switch
+0
+4
+4
+jeffmakes-footprints
+SW_SPST_TACT_6x6_REV_MOUNT_ALT1
+Reverse-mount tact switch sourced by Allnet. Different from Laxxcom part. 9.6mm span across legs.
+SPST Button Switch
+0
+4
+4
+jeffmakes-footprints
+Touch_Array_TR20
+
+
+0
+22
+22
+jeffmakes-footprints
+U.FL_Hirose_U.FL-R-SMT-1-copper-keepout
+Hirose U.FL Coaxial https://www.hirose.com/product/en/products/U.FL/U.FL-R-SMT-1%2810%29/
+Hirose U.FL Coaxial
+0
+3
+2
+jeffmakes-footprints
+USB-A-short-body
+
+
+0
+8
+5
+jeffmakes-footprints
+USB-A-short-body-in-cutout-type-strenghening-vias
+
+
+0
+40
+5
+jeffmakes-footprints
+USB_Micro-B_Yiyuan_YTC-MC5S-42
+Micro USB B receptable, no flange, bottom-mount, SMD, right-angle
+Micro B USB SMD
+0
+9
+6
+jeffmakes-footprints
+USON-10_2.5x1.0mm_P0.5mm
+USON-10 2.5x1.0mm_ Pitch 0.5mm http://www.ti.com/lit/ds/symlink/tpd4e02b04.pdf
+USON-10 2.5x1.0mm Pitch 0.5mm
+0
+10
+5
+jeffmakes-footprints
+WQFN-HR-13
+
+
+0
+17
+13
+jeffmakes-footprints
+Z280IT009
+
+
+0
+0
+0
+jeffmakes-footprints
+bugg-pcb-boss
+
+
+0
+0
+0
+jeffmakes-footprints
+electrode-array-2
+
+
+0
+237
+26
+jeffmakes-footprints
+ernw-26mm
+
+
+0
+0
+0
+jeffmakes-footprints
+ernw-insight-24mm
+
+
+0
+0
+0
+jeffmakes-footprints
+fuccs-soldering
+
+
+0
+0
+0
+jeffmakes-footprints
+jing-lcsc-C46400
+
+
+0
+6
+6
+jeffmakes-footprints
+jing-usb-c-lcsc-C167321
+
+
+0
+16
+13
+jeffmakes-footprints
+microSD_HC_Sofng_TF-15
+Micro SD, SMD, reverse on-board, right-angle, push-pull (https://www.hirose.com/product/en/download_file/key_name/DM3BT-DSF-PEJS/category/Drawing%20(2D)/doc_file_id/44097/?file_category_id=6&item_id=06090029900&is_series=)
+Micro SD
+0
+13
+10
+jeffmakes-footprints
+microSD_JAE_ST11S008V4H
+
+
+0
+18
+11
+jeffmakes-footprints
+mousebite-2.5mm
+
+
+0
+0
+0
+jeffmakes-footprints
+poft-icon-8mm
+
+
+0
+0
+0
+jeffmakes-footprints
+pot-10mm
+
+
+0
+0
+0
+jeffmakes-footprints
+pot-16mm
+
+
+0
+0
+0
+jeffmakes-footprints
+test-pad-1.4-TH
+
+
+0
+1
+1
+jeffmakes-footprints
+test-pad-D1.4
+
+
+0
+1
+1
+jeffmakes-footprints
+trroopers-48mm
+
+
+0
+0
+0
+jeffmakes-footprints
+wurth-spacer-WA-SMSI-9774030151R
+
+
+0
+1
+1
+jeffmakes-footprints
+wurth-spacer-WA-SMSI-9774060360R
+
+
+0
+0
+0
+jeffmakes-footprints
+wurth-spacer-WA-SMSI-9774070360R
+
+
+0
+0
+0
+jeffmakes-footprints
+xPRN042MAMP-RC
+surface-mounted straight pin header, 2x04, 2.00mm pitch, double rows, with alignment pegs
+Surface mounted pin header SMD 2x04 2.00mm double row peg
+0
+8
+8
+tr25-sao
+tr25
+
+
+0
+0
+0
