@@ -1,4 +1,4 @@
-Job tr25-sao
+Job tr25-sao-r1
 Quantity 420pcs
 
 PCB specification
