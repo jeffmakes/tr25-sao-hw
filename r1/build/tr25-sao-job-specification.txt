@@ -1,0 +1,33 @@
+Job tr25-sao
+Quantity 420pcs
+
+PCB specification
+-----------------
+Material: 2-layer, 1.6mm, FR4
+Finish: HASL 
+Soldermask: white
+Silkscreen: black
+Edge profile: routed all round
+
+Stack-up
+--------
+F_Silkscreen.gbr
+F_Mask.gbr
+F_Cu.gbr
+FR4 1.6
+B_Cu.gbr
+B_Mask.gbr
+B_Silkscreen.gbr
+
+Contact
+-------
+Invoice and shipping to:
+
+Jeff Gough
+Monad Gottfried Ltd.
+The Church Workshop
+Chapel Lane, St Osyth
+Clacton
+purchase@monad.is
++447903005844
+
